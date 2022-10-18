@@ -1,0 +1,8 @@
+训练集：文件类型为.pkl文件，每个pkl文件内容为元组形式，（data,metadata）；
+data：形状为（256，8），每列数据对应特征['volt','current','soc','max_single_volt','min_single_volt','max_temp','min_temp','timestamp']
+metadata：包含label和mileage信息，label标签中‘00’表示正常片段，‘10’表示异常片段。
+
+测试集：文件类型为.pkl文件，每个pkl文件内容为元组形式，
+data,metadata）；
+data：形状为（256，8），每列数据对应特征['volt','current','soc','max_single_volt','min_single_volt','max_temp','min_temp','timestamp']
+metadata：仅包含mileage信息。
