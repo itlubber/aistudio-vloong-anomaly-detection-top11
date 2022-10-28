@@ -10,7 +10,7 @@
 >
 > 微信公众号推文：[`https://mp.weixin.qq.com/s/ozvbv-ToHB4gQe5LKw4PXQ`](https://mp.weixin.qq.com/s/ozvbv-ToHB4gQe5LKw4PXQ)
 >
-> <img src="https://itlubber.art/upload/2022/10/image-1666939028030.png" style="height:400px;">
+> <img src="https://itlubber.art/upload/2022/10/image-1666939028030.png" style="height:500px;">
 > <br>
 > <center>图1: vLoong能源AI挑战赛——异常检测赛排行榜</center>
 
