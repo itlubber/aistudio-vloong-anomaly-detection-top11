@@ -1,6 +1,6 @@
 # 概要
 
-> 在vLoong能源AI挑战赛的异常检测赛中，对赛题的检测任务作了一定的抽象，将时序数据中的 `每一个时点数据` 抽象成图上的 `一个节点` ，节点与节点之间的 `关系` 是 `从上某个时间点的状态转移到当前时间点的状态` ，边上的 `权重` 可以通过 `时间差来衡量` ，时间间隔越久，两个节点之间的关系越远，边上的权重越小。对赛题给定的每个 `pickle` 文件中的数据转换成图结构，使用 `GCN` 模型进行训练，之后在测试集进行推理，提交后最终线上 `auc` 指标 `0.8636`，A榜 `TOP11`，B榜等开奖吧QaQ。
+> 在vLoong能源AI挑战赛的异常检测赛中，对赛题的检测任务作了一定的抽象，将时序数据中的 `每一个时点数据` 抽象成图上的 `一个节点` ，节点与节点之间的 `关系` 是 `从上某个时间点的状态转移到当前时间点的状态` ，边上的 `权重` 可以通过 `时间差来衡量` ，时间间隔越久，两个节点之间的关系越远，边上的权重越小。对赛题给定的每个 `pickle` 文件中的数据转换成图结构，使用 `GCN` 模型进行训练，之后在测试集进行推理，提交后最终线上 `auc` 指标 `0.8636`，A榜 `TOP11`，B榜 `TOP8` QaQ。
 > 
 > 相关代码和文章已同步推送至博客和微信公众号，各位大佬按需取用 QaQ
 > 
@@ -9,6 +9,9 @@
 > 博客推文地址：[`https://itlubber.art/archives/aistudio-vloong-anomaly-detection-top11`](https://itlubber.art/archives/aistudio-vloong-anomaly-detection-top11)
 >
 > 微信公众号推文：[`https://mp.weixin.qq.com/s/ozvbv-ToHB4gQe5LKw4PXQ`](https://mp.weixin.qq.com/s/ozvbv-ToHB4gQe5LKw4PXQ)
+>
+> <img src="https://itlubber.art/upload/2022/10/image-1666939028030.png">
+> <center>图1: vLoong能源AI挑战赛——异常检测赛排行榜</center>
 
 
 # 项目结构
