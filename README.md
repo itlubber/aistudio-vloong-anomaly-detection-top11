@@ -15,6 +15,28 @@
 > <center>图1: vLoong能源AI挑战赛——异常检测赛排行榜</center>
 
 
+# 交流
+
+<table style="text-align:center !important;border=0;">
+    <tr>
+        <td>
+            <span>微信: itlubber</span>
+        </td>
+        <td>
+            <span>微信公众号: itlubber_art</span>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://itlubber.art//upload/itlubber.png" alt="itlubber.png" width="50%" border=0/>
+        </td>
+        <td>
+            <img src="https://itlubber.art//upload/itlubber_art.png" alt="itlubber_art.png" width="50%" border=0/>
+        </td>
+    </tr>
+</table>
+
+
 # 项目结构
 
 整体项目结构如下：
